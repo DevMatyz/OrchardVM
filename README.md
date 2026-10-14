@@ -7,7 +7,7 @@ OrchardVM is a Emulator app that is directly on Android Phones that allow to emu
 - Windows (KVM only) (In creation)
 
 # Requeriments
-¯\_(ツ)_/¯
+  ¯\_(ツ)_/¯
 
 # Testing
 Tested on (Samsung Galaxy S25 Ultra 12GB ram variant)
