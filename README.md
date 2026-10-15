@@ -17,5 +17,7 @@ Tested on (Samsung Galaxy S25 Ultra 12GB ram variant)
 - Setup ur VMs in Setup Tab sometimes like firefoxOS isnt in setup just click start and it will setup itself :) But iOS 14 / 3 is in Setup Tabs
 - Enjoy!
 
+# Notice
+there might bugs since this is an PUBLIC BETA Errors, Warnings might occur
 # Want to support the project?
 Just star it, help find bugs, give ideas!
