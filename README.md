@@ -32,7 +32,7 @@
 | **iOS** | 🧪 Public beta | Includes configurations listed for **iPod touch 2.0** and **iPhone 11 (iOS 14)** |
 | **Windows Phone** | 🚧 In development | Not yet ready for general use |
 | **Windows** | 🚧 In development | Planned for **KVM-capable** devices |
-
+| **FirefoxOS** |  🧪 Public beta | Bugs and problems but works |
 > Additional environments and improvements may arrive as development continues.
 
 ## 📋 Requirements
