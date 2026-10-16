@@ -69,6 +69,7 @@ If something goes wrong, please report the environment, device model, Android ve
 | Device | Configuration |
 |:--|:--|
 | **Samsung Galaxy S25 Ultra** | **12 GB RAM** |
+| **Poco X7 Pro** | **12GB RAM** |
 
 Testing on one device doesn't guarantee compatibility with other Android phones.
 
