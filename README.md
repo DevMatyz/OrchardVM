@@ -7,8 +7,6 @@
 
 <p align="center">
   <img alt="Android" src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white">
-  <img alt="Public Beta" src="https://img.shields.io/badge/Status-Public%20Beta-FF9800?style=flat-square">
-  <img alt="Termux" src="https://img.shields.io/badge/Requires-Termux-222222?style=flat-square">
   <img alt="Experimental" src="https://img.shields.io/badge/Project-Experimental-6C63FF?style=flat-square">
 </p>
 
@@ -38,7 +36,7 @@
 ## 📋 Requirements
 
 - An **Android phone**
-- **Termux installed from F-Droid** (not the Play Store version)
+- **Termux installed from F-Droid** (not the Play Store version) (NOTE: Termux isn't needed if 0.4.9 and newer
 - Enough available storage and memory for the environment you want to run; needs will vary by configuration
 
 **Termux:** https://f-droid.org/packages/com.termux/
